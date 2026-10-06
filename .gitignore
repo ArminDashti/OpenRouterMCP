@@ -21,3 +21,6 @@ models.json
 
 # auto-managed large-file section (>5MB)
 # (paths appended by commit-push-to-github)
+
+# Auto-managed: files larger than 5 MB
+.gitnexus/lbug
