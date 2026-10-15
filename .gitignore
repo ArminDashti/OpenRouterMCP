@@ -24,3 +24,20 @@ models.json
 
 # Auto-managed: files larger than 5 MB
 .gitnexus/lbug
+
+# hygiene
+build/
+bin/
+obj/
+.venv/
+__pycache__/
+logs/
+*.tsbuildinfo
+.cache/
+coverage/
+*.zip
+*.7z
+graphify-out/
+.gitnexus/
+!.env.example
+/.cursor/skills/caveman-setup/SKILL.md
